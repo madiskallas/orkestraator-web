@@ -4,7 +4,6 @@ Static website of Orkestraator OÜ, served by GitHub Pages at <https://orkestraa
 Plain HTML and one stylesheet: no JavaScript, cookies, trackers, external fonts or CDNs.
 
 - `index.html` — the company
-- `vmg-watch.html` — the VMG Watch app (in development)
 - `privacy.html` — privacy policy; it changes with the apps' code
 - `404.html`, `CNAME`, `.nojekyll` — GitHub Pages
 
