@@ -5,8 +5,7 @@ Plain HTML and one stylesheet: no JavaScript, cookies, trackers, external fonts 
 
 - `index.html` — the company
 - `vmg-watch.html` — the VMG Watch app (in development)
-- `privacy.html` — privacy policy; its source of truth is `docs/privacy-policy.md` in the VMG Watch
-  repo, and both change with the app's code
+- `privacy.html` — privacy policy; it changes with the apps' code
 - `404.html`, `CNAME`, `.nojekyll` — GitHub Pages
 
 Preview locally: `python3 -m http.server` in this folder.
